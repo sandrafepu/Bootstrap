@@ -1,0 +1,56 @@
+.active {
+    margin-top: 5px;
+}
+
+.icon {
+    padding: 0.5%;
+}
+.btn-group {
+    margin-top: 4px;
+    padding-left: 5px;
+}
+.rueda {
+    margin-top: 35%;
+}
+.buttons {
+    margin-left: 45%;
+    text-align: center;
+    display: flex;
+}
+.tab-content {
+    text-align: center;
+}
+.first-block {
+    padding: 5px;
+}
+.third-block {
+    padding: 5px;
+}
+.col-12 {
+    text-align: center;
+}
+.first-photo {
+    display: inline-block;
+    padding: 5px;
+}
+.header {
+    display: flex;
+}
+.number {
+    margin-left: 28%;
+    margin-top: 4%;
+}
+.card-body {
+    padding: 0;
+}
+.likes {
+    margin: auto;
+    padding: 0;
+    float: left;
+}
+footer {
+    padding: 0;
+}
+.numbers {
+    float: left;
+}
